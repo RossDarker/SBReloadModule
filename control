@@ -1,0 +1,10 @@
+Package: com.rossdarker.sbrmodule
+Name: SBReload Module
+Depends: mobilesubstrate, com.opa334.ccsupport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: CC Module to perform a quick respring
+Maintainer: RossDarker
+Author: RossDarker
+Icon: https://rossdarker.github.io/repo/Files/sbr/icon_s.png
+Section: Control Center (Modules)
